@@ -1,0 +1,3 @@
+VEH_NO Code,VEH_NO Description
+1,Ναι
+0,Όχι

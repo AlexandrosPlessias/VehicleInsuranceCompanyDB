@@ -1,0 +1,3 @@
+DEATH_YR Code,DEATH_YR Description
+8888,Δεν Εφαρμόζεται ( Μη-Θανάσιμος)
+9999,Άγνωστο

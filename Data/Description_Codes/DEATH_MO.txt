@@ -1,0 +1,3 @@
+DEATH_MO Code,DEATH_MO Description
+88,Δεν Εφαρμόζεται (Μη-Θανάσιμος)
+99,Άγνωστο

@@ -1,0 +1,17 @@
+MDAREAS Code,MDAREAS Description
+1,Clock point 1
+2,Clock point 2
+3,Clock point 3
+4,Clock point 4
+5,Clock point 5
+6,Clock point 6
+7,Clock point 7
+8,Clock point 8
+9,Clock point 9
+10,Clock point 10
+11,Clock point 11
+12,Clock point 12
+13,Top
+14,Undercarriage
+15,Καμιά Ζημιά
+99,Άγνωστο

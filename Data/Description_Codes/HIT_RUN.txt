@@ -1,0 +1,4 @@
+HIT_RUN Code,HIT_RUN Description
+0,Ναι 
+1,Όχι 
+9,Άγνωστο

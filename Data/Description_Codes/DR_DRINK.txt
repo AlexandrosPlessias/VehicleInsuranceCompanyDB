@@ -1,0 +1,3 @@
+DR_DRINK Code,DR_DRINK Description
+0,Δεν Έπινε
+1,Έπινε

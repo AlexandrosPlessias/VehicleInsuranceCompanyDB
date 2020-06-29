@@ -1,0 +1,3 @@
+HAZ_INV Code,HAZ_INV Description
+1,Όχι
+2,Ναι

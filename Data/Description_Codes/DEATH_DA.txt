@@ -1,0 +1,3 @@
+DEATH_DA Code,DEATH_DA Description
+88,Δεν Εφαρμόζεται (Μη-Θανάσιμος)
+99,Άνγωστο
